@@ -1,4 +1,8 @@
-# FiOne
+## Maintainer Note
+
+FiOne is very old, very bad, and will not receive updates. It has been superseded by [Fin](https://github.com/SovereignSatellite/Fin).
+
+## FiOne
 
 Pronounced like "Fiona" with an "e". This software aims to provide a decently fast and reliable way of executing Lua 5.1 bytecode under other Lua environments without the use of `load` or `loadstring`. For the purpose of anything from sandboxing to reimplementing arbitrary execution, this should serve your needs.
 
